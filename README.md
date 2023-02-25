@@ -29,9 +29,13 @@ Interests🧙: ⚽️ , 🥾 , 🏂 , 🐕 , 📖
  <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
+
 &nbsp; <a href="https://twitter.com/Rogerhxh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+
 &nbsp; <a href="https://www.instagram.com/rogervendetta/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+
 &nbsp; <a href="https://www.linkedin.com/in/roger-acevedo-9b57bb1aa/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+
 &nbsp; <a href="mailto:rogeracevedocreate@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
